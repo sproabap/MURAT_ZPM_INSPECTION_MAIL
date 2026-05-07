@@ -1,0 +1,16 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "",
+    "originalLanguage": "tr",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "className": "ZPM_ORDER_MAIL"
+  },
+  "parameters": [
+    {
+      "name": "P_DATE"
+    }
+  ]
+}

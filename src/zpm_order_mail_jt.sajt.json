@@ -1,0 +1,19 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "",
+    "originalLanguage": "tr",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "catalogName": "ZPM_ORDER_MAIL_JCE"
+  },
+  "parameters": {
+    "singleValueParameters": [
+      {
+        "name": "P_DATE",
+        "value": ""
+      }
+    ]
+  }
+}
